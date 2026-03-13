@@ -26,7 +26,7 @@ What you need to know:
 ![setup](https://github.com/user-attachments/assets/7b268b87-8e8b-4d81-a187-f2a9e0bb2414)
 
 ### 1. Place the Anchor
-Search for `Variables Board: Panel` in the node menu, or search for VB. This node acts as the "canvas anchor" for your variables board. You only need one per workflow.
+Search for `Variables Board: Panel` in the node menu, or search for VB (VarBoard works too). This node acts as the "canvas anchor" for your variables board. You only need one per workflow.
 
 ### 2. Add Variables
 There are two ways to add variables to your board:
