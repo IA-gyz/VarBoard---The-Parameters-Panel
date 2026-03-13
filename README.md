@@ -23,6 +23,8 @@ What you need to know:
 
 ## 🚀 How to Use
 
+![setup](https://github.com/user-attachments/assets/7b268b87-8e8b-4d81-a187-f2a9e0bb2414)
+
 ### 1. Place the Anchor
 Search for `VB_Panel` in the node menu. This node acts as the "canvas anchor" for your variables board. You only need one per workflow.
 
@@ -35,17 +37,12 @@ There are two ways to add variables to your board:
 Connect the outputs of your VB nodes to the inputs of your target nodes (e.g., connect a `VB_Seed` output to the `seed` input of a KSampler).
 
 ### 4. Customize
-Click the `⚙` icon on the board header to open the **Panel Settings** flyout. Here you can tweak:
-- Background, Label, and Accent colors.
-- Icon shapes and animations (Pulse, Flicker, Glow).
-- Positioning modes and margins.
-- Reordering and "Colored Nodes" behavior.
-
+Click the `⚙` icon on the board header to open the **Panel Settings** flyout for various tweaking options.
 ---
 
 ## 📐 Design Philosophy
 
-Variables Board was designed to solve "canvas fatigue." Instead of hunting for nodes across a massive graph, you bring the controls to you. It respects the ComfyUI aesthetic while injecting a premium "Pro-tool" feel.
+Variables Board was designed to solve "canvas fatigue." Instead of hunting for nodes across a massive graph, you bring the controls to you. It respects the ComfyUI aesthetic while injecting a somewhat "Pro-tool" feel.
 
 ---
 
