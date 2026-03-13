@@ -1,28 +1,11 @@
 # 🎛️ ComfyUI Variables Board
 
-**Variables Board** is a premium, high-performance floating control center for your [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflows. It allows you to centralize every parameter—from seeds and integers to samplers and strings—into a sleek, customizable overlay that stays accessible as you navigate your workspace.
+**Variables Board** is a floating control center for your [ComfyUI](https://github.com/comfyanonymous/ComfyUI) workflows. It allows you to centralize every parameter—from seeds and integers to samplers and strings—into a sleek, customizable overlay that stays accessible as you navigate your workspace.
 
-![Variables Board Header](https://raw.githubusercontent.com/comfyanonymous/ComfyUI/master/web/assets/comfy_logo.png) *(Placeholder for Banner)*
+README IS A WORK IN PROGRESS
 
----
+What you need to know:
 
-## ✨ Key Features
-
-- **🚀 Performance First**: Built with an optimized DOM patching engine. Values update in-place without lag, even in the most complex workflows.
-- **🖼️ Canvas-Aware Positioning**: Choose between **Canvas-Anchored** (follows a specific node), **Screen-Fixed**, or **📌 Pinned Corner** modes. The panel scales and moves seamlessly with your zoom and pan.
-- **🎨 Premium Aesthetics**: Featuring a modern dark-mode design, glassmorphism, and micro-animations. Fully customizable colors, icon shapes, and fonts.
-- **🧩 Intuitive Controls**:
-    - **Seeds**: Segmented controls for increment/decrement/randomize with "Ice" freeze locking.
-    - **Numbers**: Horizontal drag-to-adjust inputs with proportional fill-bars.
-    - **Strings**: Single-line or multiline textarea support with vertical resizing.
-    - **Booleans**: Sleek custom toggle switches.
-    - **Selection**: Custom, searchable dropdowns for Samplers and Schedulers.
-- **⚡ Rapid Workflow**: 
-    - **Batch Add**: Use the built-in "Add Variable" dialog to create multiple nodes at once.
-    - **Drag-to-Reorder**: Organise your rows exactly how you want them.
-    - **Live Connection Dots**: Instantly see which variables are currently connected to your graph.
-
----
 
 ## 🛠️ Installation
 
@@ -32,7 +15,7 @@
    ```
 2. Clone this repository:
    ```bash
-   git clone https://github.com/comfyanonymous/ComfyUI-Variables-Board.git
+   git clone https://github.com/IA-gyz/VarBoard---The-Parameters-Panel.git
    ```
 3. Restart ComfyUI and refresh your browser.
 
