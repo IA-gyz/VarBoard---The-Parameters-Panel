@@ -26,11 +26,11 @@ What you need to know:
 ![setup](https://github.com/user-attachments/assets/7b268b87-8e8b-4d81-a187-f2a9e0bb2414)
 
 ### 1. Place the Anchor
-Search for `VB_Panel` in the node menu. This node acts as the "canvas anchor" for your variables board. You only need one per workflow.
+Search for `Variables Board: Panel` in the node menu, or search for VB. This node acts as the "canvas anchor" for your variables board. You only need one per workflow.
 
 ### 2. Add Variables
 There are two ways to add variables to your board:
-- **Batch Mode**: Click the `＋ Add Variable` button in the board header to open the dialog.
+- **Batch Mode**: Click the `＋ Add` button in the board header to open the dialog.
 - **Manual Mode**: Add individual nodes like `VB_Int`, `VB_Float`, or `VB_Seed` and they will automatically appear on the board.
 
 ### 3. Connect to Nodes
